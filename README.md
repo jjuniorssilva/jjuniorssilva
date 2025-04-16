@@ -2,8 +2,7 @@
 
 <!--
 **jjuniorssilva/jjuniorssilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-gelei
-teste\
+
 Here are some ideas to get you started:
 next
 - 🔭 I’m currently working on ...
